@@ -15,6 +15,7 @@ Este proyecto muestra enlaces a redes sociales y cursos de programación de midu
 - [.vscode/settings.json](.vscode/settings.json): Configuración recomendada para VS Code.
 - [package.json](package.json), [pnpm-lock.yaml](pnpm-lock.yaml): Dependencias y scripts.
 
+
 ## Instalación
 
 1. Instala [pnpm](https://pnpm.io/) si no lo tienes.
@@ -42,6 +43,24 @@ Abre [index.html](index.html) en tu navegador.
 > Si abres el archivo directamente (doble clic), los iconos SVG no se mostrarán correctamente por restricciones de rutas locales.  
 > Para ver los iconos y todo el contenido correctamente, ejecuta el proyecto en VS Code usando **Live Server** o **Live Preview**.  
 > Así se servirán los archivos desde un servidor local y los iconos cargarán sin problemas.
+
+## Cómo instalar Live Server y Live Preview en VS Code
+
+Para visualizar correctamente los iconos y rutas locales, se recomienda usar una extensión como **Live Server** o **Live Preview** en Visual Studio Code.
+
+### Instalar Live Server
+
+1. Abre la barra lateral de extensiones en VS Code (`Ctrl+Shift+X`).
+2. Busca "Live Server" y haz clic en instalar.
+
+![Instalación de Live Server](assets/live-server.png)
+
+### Instalar Live Preview
+
+1. Abre la barra lateral de extensiones en VS Code (`Ctrl+Shift+X`).
+2. Busca "Live Preview" y haz clic en instalar.
+
+![Instalación de Live Preview](assets/live-preview.png)
 
 ## Personalización
 
